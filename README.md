@@ -1,4 +1,4 @@
-# **Wav2Lip**: *Accurately Lip-syncing Videos In The Wild* 
+# 一張臉照 + 一段語音 → 產出對嘴影片 **Wav2Lip**: *Accurately Lip-syncing Videos In The Wild* 
 
 # Commercial Version
 
